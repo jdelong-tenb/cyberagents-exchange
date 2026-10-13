@@ -1,5 +1,5 @@
 ---
-last_reviewed: 2026-10-07
+last_reviewed: 2026-10-13
 name: "PCI ASV Scan Copilot"
 author: "jdelong-tenb"
 github_url: "https://github.com/jdelong-tenb/pci-asv-scan-copilot"
