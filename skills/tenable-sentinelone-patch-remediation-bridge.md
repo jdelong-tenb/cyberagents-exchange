@@ -6,12 +6,13 @@ description: "Bridges a Tenable-detected vulnerability to any third-party patch 
 license: "MIT"
 tier: "contributed"
 tags: ["patch-management", "remediation", "ctem", "vulnerability-management", "mcp-bridge", "sentinelone", "containment"]
+domains: ["vulnerability-management", "security-operations"]
 integrations: ["Tenable", "SentinelOne"]
 date_added: 2026-09-09
 contribution_agreement_date: 2026-09-09T00:00:00Z
 compatible_platforms: ["Claude Code"]
 invocation: "Say things like \"trigger a patch job for this CVE,\" \"patch these hosts and tell me when it's done,\" \"did the patch job finish before we rescan,\" or \"release containment now that it's patched\" — the skill activates automatically."
-last_reviewed: 2026-09-09
+last_reviewed: 2026-10-19
 works_with_tenable_hexa_mcp: false
 ---
 
