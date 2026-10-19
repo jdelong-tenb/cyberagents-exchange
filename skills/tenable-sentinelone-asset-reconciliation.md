@@ -6,12 +6,13 @@ description: "Cross-references Tenable's asset inventory against SentinelOne's a
 license: "MIT"
 tier: "contributed"
 tags: ["sentinelone", "asset-inventory", "exposure-management", "edr", "coverage-gap"]
+domains: ["security-operations", "vulnerability-management"]
 integrations: ["Tenable", "SentinelOne"]
 date_added: 2026-09-02
 contribution_agreement_date: 2026-09-02T00:00:00Z
 compatible_platforms: ["Claude Code"]
 invocation: "Say things like \"find gaps between our Tenable and SentinelOne coverage,\" \"what's on the network that SentinelOne isn't protecting,\" or \"which SentinelOne-protected assets does Tenable never scan\" — the skill activates automatically."
-last_reviewed: 2026-09-02
+last_reviewed: 2026-10-19
 ---
 
 ## What it does
