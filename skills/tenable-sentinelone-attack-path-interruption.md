@@ -6,6 +6,7 @@ description: "Cross-references a live Tenable One Attack Path Analysis toxic pat
 license: "MIT"
 tier: "contributed"
 tags: ["sentinelone", "attack-path-analysis", "edr", "lateral-movement", "containment"]
+domains: ["security-operations", "vulnerability-management"]
 integrations: ["Tenable", "Tenable Hexa AI MCP", "SentinelOne"]
 date_added: 2026-09-02
 contribution_agreement_date: 2026-09-02T00:00:00Z
