@@ -12,7 +12,7 @@ date_added: 2026-09-02
 contribution_agreement_date: 2026-09-02T00:00:00Z
 compatible_platforms: ["Claude Code"]
 invocation: "Say things like \"is anything actually happening on this attack path right now,\" \"check SentinelOne for activity on these exposed hosts,\" or \"isolate this host, it's on a toxic path\" — the skill activates automatically."
-last_reviewed: 2026-09-02
+last_reviewed: 2026-10-22
 works_with_tenable_hexa_mcp: true
 ---
 
